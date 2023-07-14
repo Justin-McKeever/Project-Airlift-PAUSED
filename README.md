@@ -8,7 +8,7 @@ note this program will require you to setup a Private github repository to uploa
 
 Time Line/ TO-DO
 Repository for the software: Completed
-Upload functionality: In Progress
+Upload functionality: In Progress    
 AES encryption integration:    
 Download functionality:     
 AES Decryption integration:    
