@@ -6,7 +6,7 @@ Project: Airlift Utilizes Git and Github API calls to upload note application fi
 
 note this program will require you to setup a Private github repository to upload ones personal files to
 
-Time Line/ TO-DO
+Time Line/ TO-DO    
 Repository for the software: Completed    
 Upload functionality: In Progress    
 AES encryption integration:    
